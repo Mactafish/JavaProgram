@@ -1,2 +1,2 @@
 # JavaProgram
-Java First Programing Learn 
+Java First Programming Language
